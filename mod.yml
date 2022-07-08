@@ -1,0 +1,13 @@
+title: Little Sus
+description: Replaces Chicken Little
+assets:
+#model
+- name: obj/P_EX350.mdlx
+  method: copy
+  source:
+  - name: P_EX350.mdlx
+#PC portrait and sounds
+- name: raw/obj/P_EX350.a.us
+  method: copy
+  source:
+  - name: P_EX350.a.us
